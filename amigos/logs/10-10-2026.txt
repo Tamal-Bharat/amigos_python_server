@@ -1,0 +1,37 @@
+[21:14:37] Attendance saved successfully
+[21:26:21] Attendance saved successfully
+[21:27:46] Attendance saved successfully
+[21:30:29] 
+
+[21:30:29] ****************************
+[21:30:29] Log File Created
+[21:30:29] Request from: 90015421 - Ritrisha Biswas
+[21:30:29] Frame has no faces
+[21:30:29] Frame has no faces
+[21:30:29] Some Exception occured in extractFrameFromVideo
+[21:30:29] Exception in: <function registerFace at 0x000002336C977EB0>
+[21:30:29] Some Exception occured
+[21:31:01] 
+
+[21:31:01] ****************************
+[21:31:01] Log File Created
+[21:31:01] Request from: 90015421 - Ritrisha Biswas
+[21:31:01] Frame has no faces
+[21:31:01] Frame has no faces
+[21:31:01] Some Exception occured in extractFrameFromVideo
+[21:31:01] Exception in: <function registerFace at 0x000002336C977EB0>
+[21:31:01] Some Exception occured
+[21:31:56] 
+
+[21:31:56] ****************************
+[21:31:56] Log File Created
+[21:31:56] Request from: 90015421 - Ritrisha Biswas
+[21:31:56] [FACE] Time: 0.00s | Confidence: 0.79 | Saved: frames\frame_0000.jpg
+[21:31:58] Frame has multiple faces
+[21:31:59] [FACE] Time: 6.00s | Confidence: 0.74 | Saved: frames\frame_0001.jpg
+[21:32:01] Frame has multiple faces
+[21:32:01] frame could not be read
+[21:32:01] RESULT: Face detected in the video
+[21:32:05] Embeddings stored successfully
+[21:32:08] Embeddings stored successfully
+[21:32:22] Attendance saved successfully

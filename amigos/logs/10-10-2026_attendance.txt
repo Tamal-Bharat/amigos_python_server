@@ -1,0 +1,5 @@
+[21:14:37] {'emp_id': '90015419', 'emp_name': 'Tamal Biswas', 'currentDateTime': '10.10.2026 21:14:37'}
+[21:26:21] {'emp_id': '90015419', 'emp_name': 'Tamal Biswas', 'currentDateTime': '10.10.2026 21:26:21'}
+[21:27:46] {'emp_id': '90015420', 'emp_name': 'Rimpa Karar', 'currentDateTime': '10.10.2026 21:27:46'}
+[21:29:21] Employee not registered yet
+[21:32:22] {'emp_id': '90015421', 'emp_name': 'Ritrisha Biswas', 'currentDateTime': '10.10.2026 21:32:21'}
